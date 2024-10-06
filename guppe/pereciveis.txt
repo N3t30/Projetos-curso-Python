@@ -1,0 +1,6 @@
+carne
+peixe
+frutas
+iogurte
+limão
+leite
